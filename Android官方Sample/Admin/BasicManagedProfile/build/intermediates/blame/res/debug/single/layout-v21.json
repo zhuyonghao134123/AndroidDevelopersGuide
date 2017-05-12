@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Projects\\workSpace\\AndroidSample\\Admin\\BasicManagedProfile\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "F:\\Projects\\workSpace\\AndroidSample\\Admin\\BasicManagedProfile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Projects\\workSpace\\AndroidSample\\Admin\\BasicManagedProfile\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "F:\\Projects\\workSpace\\AndroidSample\\Admin\\BasicManagedProfile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Projects\\workSpace\\AndroidSample\\Admin\\BasicManagedProfile\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "F:\\Projects\\workSpace\\AndroidSample\\Admin\\BasicManagedProfile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Projects\\workSpace\\AndroidSample\\Admin\\BasicManagedProfile\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "F:\\Projects\\workSpace\\AndroidSample\\Admin\\BasicManagedProfile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

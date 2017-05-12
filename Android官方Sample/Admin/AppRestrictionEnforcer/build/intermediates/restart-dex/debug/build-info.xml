@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="25227701137600"
+    token="7595898574148506075"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="597" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="284" />
+    <task
+        name="verifier"
+        duration="65" />
+
+    <artifact
+        location="F:\Projects\workSpace\AndroidSample\Admin\AppRestrictionEnforcer\build\outputs\apk\AppRestrictionEnforcer-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="25227701137600"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\Projects\workSpace\AndroidSample\Admin\AppRestrictionEnforcer\build\outputs\apk\AppRestrictionEnforcer-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

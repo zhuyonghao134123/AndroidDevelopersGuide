@@ -1,0 +1,7 @@
+#Fri May 12 16:02:35 CST 2017
+base.0=F\:\\Projects\\workSpace\\AndroidSample\\Admin\\AppRestrictionSchema\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5277a4e1620d95e9bf72ea3bba5e2e2f933dc048
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Projects\\workSpace\\AndroidSample\\Admin\\AppRestrictionSchema\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_adaaf60732042dba12748964da7d5e9a0bf7aeba\\classes.dex
+base.1=F\:\\Projects\\workSpace\\AndroidSample\\Admin\\AppRestrictionSchema\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_adaaf60732042dba12748964da7d5e9a0bf7aeba
+file.0=F\:\\Projects\\workSpace\\AndroidSample\\Admin\\AppRestrictionSchema\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5277a4e1620d95e9bf72ea3bba5e2e2f933dc048\\classes.dex

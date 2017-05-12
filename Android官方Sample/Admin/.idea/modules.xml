@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Admin.iml" filepath="$PROJECT_DIR$/Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppRestrictionEnforcer/AppRestrictionEnforcer.iml" filepath="$PROJECT_DIR$/AppRestrictionEnforcer/AppRestrictionEnforcer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppRestrictionSchema/AppRestrictionSchema.iml" filepath="$PROJECT_DIR$/AppRestrictionSchema/AppRestrictionSchema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicManagedProfile/BasicManagedProfile.iml" filepath="$PROJECT_DIR$/BasicManagedProfile/BasicManagedProfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeviceOwner/DeviceOwner.iml" filepath="$PROJECT_DIR$/DeviceOwner/DeviceOwner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NfcProvisioning/NfcProvisioning.iml" filepath="$PROJECT_DIR$/NfcProvisioning/NfcProvisioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

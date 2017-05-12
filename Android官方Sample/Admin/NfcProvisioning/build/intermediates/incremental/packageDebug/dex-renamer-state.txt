@@ -1,0 +1,7 @@
+#Fri May 12 17:01:30 CST 2017
+base.0=F\:\\Projects\\workSpace\\AndroidSample\\Admin\\NfcProvisioning\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b55e79f682a46b6a26a1f0719df7a6dee5b22437
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Projects\\workSpace\\AndroidSample\\Admin\\NfcProvisioning\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6bfbc3c27ca316c7b2e210d7a856a099fea46987\\classes.dex
+base.1=F\:\\Projects\\workSpace\\AndroidSample\\Admin\\NfcProvisioning\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6bfbc3c27ca316c7b2e210d7a856a099fea46987
+file.0=F\:\\Projects\\workSpace\\AndroidSample\\Admin\\NfcProvisioning\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b55e79f682a46b6a26a1f0719df7a6dee5b22437\\classes.dex

@@ -1,0 +1,1 @@
+include ':app', 'AppRestrictionEnforcer', 'AppRestrictionSchema', 'BasicManagedProfile', 'DeviceOwner', 'NfcProvisioning'
